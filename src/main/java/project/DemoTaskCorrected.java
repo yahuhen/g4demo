@@ -1,11 +1,11 @@
 package project;
 
-public class DemoTask2 {
+public class DemoTaskCorrected {
 
     private int intField;
     private String stringField;
 
-    public DemoTask2(int intField, String stringField) {
+    public DemoTaskCorrected(int intField, String stringField) {
         this.intField = intField;
         this.stringField = stringField;
     }
