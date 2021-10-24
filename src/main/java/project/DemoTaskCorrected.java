@@ -12,8 +12,6 @@ public class DemoTaskCorrected {
 
     public int getIntField() {
         return intField;
-
-
     }
 
     public void setIntField(int intField) {
