@@ -12,6 +12,8 @@ public class DemoTask {
 
     public int getIntField() {
         return intField;
+
+
     }
 
     public void setIntField(int intField) {
